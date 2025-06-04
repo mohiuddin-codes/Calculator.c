@@ -4,7 +4,6 @@ calculator.c
 int main() {
     char operator;
     double num1, num2, result;
-
     // Displaying menu
     printf("Simple Calculator in C\n");
     printf("-----------------------\n");
